@@ -2,7 +2,7 @@
 <h3 align="left">An aspiring Software Developer currently in final year of Engineering. Currently looking for oppurtunities where I can apply my skills and expertise.</h3>
 
 
-- 🔭 I’m currently working on **creating a Netflix Clone using React.js**
+- 🔭 I’m currently working on **creating an AirBnB clone using MERN**
 
 - 🌱 I’m currently learning **MERN Stack, DSA**
 
