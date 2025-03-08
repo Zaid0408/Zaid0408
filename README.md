@@ -2,9 +2,9 @@
 <h3 align="left">An aspiring Software Developer currently in final year of Engineering. Currently looking for oppurtunities where I can apply my skills and expertise.</h3>
 
 
-- 🔭 I’m currently working on **creating an AirBnB clone using MERN**
+- 🔭 I’m currently working on **improving my web dev skills**
 
-- 🌱 I’m currently learning **MERN Stack, DSA**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zaid0408?tab=repositories](https://github.com/Zaid0408?tab=repositories)
 
