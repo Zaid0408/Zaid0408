@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Hasan</h1>
-<h3 align="left">An aspiring Software Developer currently in final year of Engineering. Currently looking for oppurtunities where I can apply my skills and expertise.</h3>
+<h3 align="left">An aspiring Software Developer currently in my final year of Engineering. Currently looking for oppurtunities where I can apply my skills and expertise.</h3>
 
 
 - 🔭 I’m currently working on **improving my web dev skills**
