@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zaid Hasan</h1>
-<h3 align="left">An aspiring Software Developer currently in my final year of Engineering. Currently looking for oppurtunities where I can apply my skills and expertise.</h3>
+<h3 align="left">An aspiring Software Developement Engineer currently working as an SDET-1 . </h3>
 
 
-- 🔭 I’m currently working on **improving my web dev skills**
+- 🔭 I’m currently working on **improving my development skills**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently implementing a **Task Manager App**
+
+- 🪴 I'm focused on growth and skills development by making Projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zaid0408?tab=repositories](https://github.com/Zaid0408?tab=repositories)
 
