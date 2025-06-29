@@ -15,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zaid-hasan-7323b1217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zaid-hasan-7323b1217/" height="30" width="40" /></a>
-<a href="https://x.com/Zaid_code?t=xAJ1LNf8z7czoIxCv-9h-w&s=09" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Zaid_code?t=xAJ1LNf8z7czoIxCv-9h-w&s=09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,13 +34,11 @@
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com/console/"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt="AWS" width="40" height="40"/></a></p>
 
 <h3>AI ML & miscellaneous</h3>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid0408&show_icons=true&locale=en&layout=compact" alt="zaid0408" /></p>
