@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **learning DSA, development and CI/CD**
 
-- 🌱 I’m currently implementing a **Kubernetes Setup for a small project**
+- 🌱 I’m currently implementing a **Order Tracking and Analytics project**
 
 - 🪴 I'm focused on growth and skills development by making Projects
 
