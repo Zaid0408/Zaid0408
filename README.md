@@ -2,9 +2,9 @@
 <h3 align="left">An aspiring Software Developement Engineer currently working as an SDET-1 . </h3>
 
 
-- 🔭 I’m currently working on **learning DSA, development and CI/CD**
+- 🔭 I’m currently working on **learning DSA, development and Open Source Contributions**
 
-- 🌱 I’m currently implementing a **Order Tracking and Analytics project**
+- 🌱 I’m currently implementing a **LLD Practice Repo**
 
 - 🪴 I'm focused on growth and skills development by making Projects
 
