@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaid Hasan</h1>
-<h3 align="left">An aspiring Software Developement Engineer currently working as an SDET-1 . </h3>
+<h3 align="left"> Working as a SDE 1 @ Suki AI where i implement GO and grpc based Microservices which are production ready  . </h3>
 
 
 - 🔭 I’m currently working on **learning DSA, development and Open Source Contributions**
