@@ -43,4 +43,4 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/docker.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/kubernetes.svg" alt="gcp" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid0408&show_icons=true&locale=en&layout=compact" alt="zaid0408" /></p>
+<p><img align="center" src="./profile/top-langs.svg" alt="zaid0408" /></p>
